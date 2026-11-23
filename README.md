@@ -1,52 +1,31 @@
 # 🚗 Car Price Prediction using Machine Learning
 
-## 📌 Project Overview
-This project predicts used car selling prices using Machine Learning and Linear Regression based on various car features.
+This project predicts car prices using Machine Learning and Linear Regression.
 
 ## 📊 Features
 - Data preprocessing
-- Categorical feature encoding
+- Feature encoding
 - Train-test split
 - Linear Regression model
-- Model evaluation using R² Score
-- Car price prediction
-- Data visualization
+- Accuracy evaluation
+- Data visualization graphs
 
-## 📈 Data Visualizations
-- Actual vs Predicted Prices
-- Error Distribution
-- Feature Coefficients
+## 📈 Visualizations Added
+- Actual vs Predicted Graph
+- Error Distribution Graph
+- Feature Importance Graph
 - Correlation Heatmap
 - Selling Price Distribution
 
-## 🤖 Machine Learning Algorithm
-Linear Regression
-
-## 🛠️ Technologies Used
+## 🛠 Tools Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ## 📂 Dataset
-Car Price Dataset containing:
-- Car Name
-- Year
-- Selling Price
-- Present Price
-- Driven Kilometers
-- Fuel Type
-- Selling Type
-- Transmission
-- Owner
+Car Price Prediction Dataset
 
-## 🎯 Project Outcome
-Developed a Machine Learning model to estimate used car selling prices based on vehicle characteristics.
-
-## 🏢 Internship
-**CodeAlpha — Data Science Internship**
-
-**Task 3: Car Price Prediction**
+## 🚀 Project Outcome
+Successfully predicted car prices with good accuracy using Machine Learning techniques.
